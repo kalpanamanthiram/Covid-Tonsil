@@ -1,5 +1,5 @@
 # Covid-Tonsil
-Robust, persistent adaptive immune responses to SARS-CoV-2 in oropharyngeal lymphoid tissue in children
+# Robust, persistent adaptive immune responses to SARS-CoV-2 in oropharyngeal lymphoid tissue in children
 
 Unsupervised analysis was performed by Pedro Milanez-Almeida,Center for Human Immunology, NIAID, NIH, Bethesda, MD.
 
