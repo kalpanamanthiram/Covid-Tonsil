@@ -9,7 +9,7 @@ CITEseq analysis was performed by Dr. Andrew J. Martins, Multiscale Systems Biol
 
 BCR analysis was performed by Dr. Kenneth B. Hoehn, Department of Pathology, Yale School of Medicine, New Haven.
 
-TCR analysis was performed by Dr. Cihan Oguz, NIAID Collaborative Bioinformatics Resource (NCBR), NIAID, NIH, Bethesda, MD and Axle Informatics, Bethesda, MD
+TCR analysis was performed by Dr. Cihan Oguz, NIAID Collaborative Bioinformatics Resource (NCBR), NIAID, NIH, Bethesda, MD and Axle Informatics, Bethesda, MD. Figure plotting was performed by Qin Xu, Cell Signaling and Immunity Section, Laboratory of Immune System Biology (LISB), National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH), Bethesda, MD
 
 
 
