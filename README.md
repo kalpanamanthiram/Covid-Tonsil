@@ -1,5 +1,5 @@
 # Covid-Tonsil
-# Robust, persistent adaptive immune responses to SARS-CoV-2 in oropharyngeal lymphoid tissue in children
+# Adaptive immune responses to SARS-CoV-2 persist in pharyngeal lymphoid tissue in children
 
 We analyzed the immune profile of tonsils and adenoids following COVID-19.
 
